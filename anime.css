@@ -29,6 +29,7 @@
 .lista_anime{
     margin-left: 2%;
     color: #fff;
+    font-size: 25px;
 }
 
 .vide{
@@ -61,7 +62,7 @@ a:hover{
 
 /*Anime IKEBUKURO WEST*/
 .episodios{
-    margin-left: 3%;
+    margin-left: 5%;
     color: #fff;
     margin-top: 1%;
     font-size: 20px;
